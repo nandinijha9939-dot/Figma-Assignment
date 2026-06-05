@@ -69,7 +69,7 @@ export default function NewsletterSection() {
   </svg>
 
 </div>
-      <div className="max-w-6xl mx-auto px-6 text-center">
+      <div className="max-w-6xl relative z-10 mx-auto px-6 text-center">
 
         <h2 className="text-5xl sm:text-6xl md:text-[100px] leading-none font-light">
 
