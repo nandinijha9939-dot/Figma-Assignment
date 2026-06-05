@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+body {
+  margin: 20px;
+  font-family: 'Syne', sans-serif;
+   background:#f5f5f5;
+  overflow-x:hidden;
+}
